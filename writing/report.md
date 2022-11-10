@@ -1,4 +1,4 @@
-# Report by Katie, Gary, zzackery, peter
+# Report by Katie, Gary, zzackery,
 
 ## Step 1: Getting Started and `teleop`
 
