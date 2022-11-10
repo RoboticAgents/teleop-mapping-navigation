@@ -1,4 +1,4 @@
-# Report by Katie, Gary
+# Report by Katie, Gary, zzackery
 
 ## Step 1: Getting Started and `teleop`
 
@@ -24,3 +24,5 @@ TODO: Discuss any challenges you have encountered during the work on this assign
 ## Team Work
 
 TODO: Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
+
+Our strategy was to work evenly and failry with thoughts of action leading toward our each individual strong suits.
