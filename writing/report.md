@@ -1,8 +1,17 @@
 # Report by Add Team Member Names
 
+Gary
+
 ## Step 1: Getting Started and `teleop`
 
-TODO: Describe the steps you took to turn on and get your robot set up, and the steps you took to successfully use `teleop` on the robot.
+Describe the steps you took to turn on and get your robot set up, and the steps you took to successfully use `teleop` on the robot.
+
+Step 1: Open the box for the robot and take out the dock. Place the dock on the floor in an open space and plug it into the nearest outlet.
+Step 2: Power on and connect everything to the wall.
+Step 3: Connect WIFI to router
+
+The first thing we did is to open the box and plug in the robot. 
+
 
 ## Step 2: Implementation Details
 
