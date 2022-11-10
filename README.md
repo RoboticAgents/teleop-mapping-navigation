@@ -61,35 +61,6 @@ Once the robot is up and running, you need to have it navigate in the environmen
 - [Turtlebot 4 Software information](https://turtlebot.github.io/turtlebot4-user-manual/software/) to learn about Turtlebot 4 packages, sensors, using `rviz2`, using SLAM technique to create maps, using navigation stack in ROS 2, and setting up Turtlebot 4 simulator.
 - Questions and issue logging support can be found at [Turtlebot 4 GitHub Issues](https://github.com/turtlebot/turtlebot4/issues) and [Turtlebot 4 Simulator GitHub Issues](https://github.com/turtlebot/turtlebot4_simulator/issues).
 
-### EvoArm
-
-You can learn more about this robot, what is included in the robotic kit, and the contact information for support by visiting [evodyneacademy's website](https://www.evodyneacademy.com/evoarm-robotic-arm-kit-arduino). Additionally, [EvoArm Flyer](evoarm-kit-insert.pdf) has some helpful information.
-
-#### Step 1:
-
-You should first get connected and drive the robot using remote control on the web interface. Please follow the [tutorial](evoarm_tutorial.md) compiled by the previous teams. You can also refer to the instructions on the flyer that came with the robot to connect to it. You can either connect to the robot via hotspot or `CompSci` wifi.
-
-To connect via hotspot:
-
-1. find the correct robot (EVOARMMINI302, EVOARMMINI324, or EVOARMMINI334) under your computer's networks;
-2. go to `10.10.0.1:9072` in your browser;
-3. use password `evodyne2020` to log in
-
-To connect via `CompSci` wifi:
-
-1. go to `evoarm.evodyne.co`;
-2. enter your robot's access id (the 9 digit number on the white sticker on the robot);
-3. use access code `evodyne2020` to log in
-
-#### Step 2:
-
-Once the robot is up and running, you will need to select an autonomous robotic hand manipulation technique to implement for an application of your choice. Feel free to utilize resources provided in the kit. To find ideas you can also go to [evoarm-apps](https://www.evodyneacademy.com/forum/evoarm-apps), create an account, after after you are approved, you will find lots of information from the community, including sample code and information on how to use ROS and HTTP commands to control/program the arm.
-
-#### Other Resources:
-
-- This robot has already been built but if you need to check various parts of the built process, check out [evodyneacademy tutorials](https://www.evodyneacademy.com/tutorials) for all 16 steps of the build process. You will need to use password: `bRtaos40sNd` to access the tutorials.
-- For support, you may reach out to Evodyne Robotics Academy `support@evodyneacademy.com`.
-
 ## Project Demonstrations
 
 At the beginning of the class session on Thursday, November 17th, each team will be given an opportunity to demonstrate their project. When the class session starts, teams will be given a few minutes to set up their demonstrations and get them running. Then, class members will participate in an interactive demonstration session, where everyone will be able to view each demonstration.
