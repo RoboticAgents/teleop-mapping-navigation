@@ -6,10 +6,6 @@ Gary
 
 Describe the steps you took to turn on and get your robot set up, and the steps you took to successfully use `teleop` on the robot.
 
-Step 1: Open the box for the robot and take out the dock. Place the dock on the floor in an open space and plug it into the nearest outlet.
-Step 2: Power on and connect everything to the wall.
-Step 3: Connect WIFI to router
-
 The first thing we did is to open the box and plug in the robot. The second thing we did is to power on the router, so we can connect to it automatically. We have successful connect the network, and we got the robot to move. We ran these commands for the robot to run. 
 
 `source /opt/ros/galactic/setup.bash`
