@@ -10,8 +10,10 @@ Step 1: Open the box for the robot and take out the dock. Place the dock on the 
 Step 2: Power on and connect everything to the wall.
 Step 3: Connect WIFI to router
 
-The first thing we did is to open the box and plug in the robot. 
+The first thing we did is to open the box and plug in the robot. The second thing we did is to power on the router, so we can connect to it automatically. We have successful connect the network, and we got the robot to move. We ran these commands for the robot to run. 
 
+`source /opt/ros/galactic/setup.bash`
+`ros2 run teleop_twist_keyboard teleop_twist_keyboard`
 
 ## Step 2: Implementation Details
 
