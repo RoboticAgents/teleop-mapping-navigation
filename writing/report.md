@@ -13,16 +13,13 @@ Step 5: Run the keyboard commands and watch the robot move when you type command
 
 ## Step 2: Implementation Details
 
-Step 1:
-Step 2:
-Step 3:
-Step 4:
-Step 5:
-Step 6:
-Step 7:
-Step 8:
-Step 9:
-Step 10:
+Step 1: Getting our turtle bot connected to our laptops.
+Step 2: Going throught the tutorials to get a better understanding on how we will be starting the mapping of our turtle bot.
+Step 3: Getting the keyboard command up working to get the movement of our turtle bot functioning.
+Step 4: Run the commands to open the mapping software.
+Step 5: Start the creation of our map.
+Step 6: Save our map.
+Step 7: Get our turtle bot to complete the task of starting at one point and moving to the end point that we choose.
 
 - https://turtlebot.github.io/turtlebot4-user-manual/tutorials/driving.html
 - https://www.youtube.com/watch?v=T3if0aPj0Eo
