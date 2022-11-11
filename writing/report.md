@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Report by Katie, Gary, zzackery, peter
+=======
+# Report by Katie, Gary, zackery,
+>>>>>>> cf4a1ca5177b1006656d965a95190fbe84198ba6
 
 ## Step 1: Getting Started and `teleop`
 
