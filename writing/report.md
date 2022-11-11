@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-# Report by Katie, Gary, zzackery, peter
-=======
-# Report by Katie, Gary, zackery,
->>>>>>> cf4a1ca5177b1006656d965a95190fbe84198ba6
+# Report by Katie, Gary, zackery, peter
 
 ## Step 1: Getting Started and `teleop`
+
 
 Step 1: Open the box for the robot and take out the dock. Place the dock on the floor in an open space and plug it into the nearest outlet.
 Step 2: Power on the robot and plug the router into the wall
@@ -12,6 +9,8 @@ Step 3: Connect the computer's network to the router, ensuring that the robot co
 Step 4: Make sure that the robot has the keyboard control ros commands installed. If not, make sure to install them.
 Step 5: Run the keyboard commands and watch the robot move when you type commands!
 
+`source /opt/ros/galactic/setup.bash`
+`ros2 run teleop_twist_keyboard teleop_twist_keyboard`
 
 ## Step 2: Implementation Details
 
