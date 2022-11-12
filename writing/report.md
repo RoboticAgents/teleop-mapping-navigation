@@ -14,7 +14,7 @@
 ## Step 2: Implementation Details
 
 1. Getting our turtle bot connected to our laptops.
-2. Going throught the tutorials to get a better understanding on how we will be starting the mapping of our turtle bot.
+2. Going throughout the tutorials to get a better understanding on how we will be starting the mapping of our turtle bot.
 3. Getting the keyboard command up working to get the movement of our turtle bot functioning.
 4. Run the commands to open the mapping software.
 5. Start the creation of our map.
@@ -37,8 +37,8 @@ We thought it was interesting that it was able to automatically plan its route o
 
 ## Challenges and Learning Experiences
 
-While completing the work on this assignment some challenges that we ran into were getting the network to work with our laptops and the turtle bot to get it to move. Another issue we ran into was saving our image of the map our turtle bot created. One more of the challenges that we ran into was getting our robot to move from the start point to the end point. We solved these issues as a group and ultimately got to our goal of having our turtle bot complete the task of moving from a start point to an end point. The biggest learning take away was seeing a real-world applciation of AI in combination with a camera. Seeing it be able to make its own route and execute a path it came up with opened our eyes to some new possibilities in the field of robotics.
+While completing the work on this assignment some challenges that we ran into were getting the network to work with our laptops and the turtle bot to get it to move. Another issue we ran into was saving our image of the map our turtle bot created. One more of the challenges that we ran into was getting our robot to move from the start point to the end point. We solved these issues as a group and ultimately got to our goal of having our turtle bot complete the task of moving from a start point to an end point. The biggest learning take away was seeing a real-world application of AI in combination with a camera. Seeing it be able to make its own route and execute a path it came up with opened our eyes to some new possibilities in the field of robotics.
 
 ## Team Work
 
-For our group our strategy is to work evenly and failry with thoughts of action leading toward our each individual strong suits. For the ultimate goal of getting our turlebot to create a map and complete a course with a start point and an end point.
+For our group our strategy is to work evenly and fairly with thoughts of action leading toward our each individual strong suits. For the ultimate goal of getting our turtle bot to create a map and complete a course with a start point and an end point.
