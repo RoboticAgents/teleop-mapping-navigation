@@ -21,17 +21,17 @@
 6. Save our map.
 7. Get our turtle bot to complete the task of starting at one point and moving to the end point that we choose.
 
-- https://turtlebot.github.io/turtlebot4-user-manual/tutorials/driving.html
-- https://www.youtube.com/watch?v=T3if0aPj0Eo
-- https://turtlebot.github.io/turtlebot4-user-manual/tutorials/generate_map.html
-- https://github.com/turtlebot
-- https://www.youtube.com/watch?v=35U4JKThOFU
+- <https://turtlebot.github.io/turtlebot4-user-manual/tutorials/driving.html>
+- <https://www.youtube.com/watch?v=T3if0aPj0Eo>
+- <https://turtlebot.github.io/turtlebot4-user-manual/tutorials/generate_map.html>
+- <https://github.com/turtlebot>
+- <https://www.youtube.com/watch?v=35U4JKThOFU>
 
 Our task we decided to pursue was to get the robot to move around the table. We decided to do this because it was the largest natural boundary that we had to make it have a harder time coming up with its ideal path around. We used the above resources in order to come up with and accomplish this idea and plan.
 
 ## Outcomes
 
-Located in the img_and_vid folder. 
+Located in the img_and_vid folder.
 
 We thought it was interesting that it was able to automatically plan its route only given a start and end location. We didn't do this in the video, but when we stood in front of the robot it would attempt to go around us, even if this wasn't in the original map that it came up with.
 
@@ -41,4 +41,4 @@ While completing the work on this assignment some challenges that we ran into we
 
 ## Team Work
 
-For our group our strategy is to work evenly and failry with thoughts of action leading toward our each individual strong suits. For the ultimate goal of getting our turlebot to create a map and complete a course with a start point and an end point. 
+For our group our strategy is to work evenly and failry with thoughts of action leading toward our each individual strong suits. For the ultimate goal of getting our turlebot to create a map and complete a course with a start point and an end point.
