@@ -22,7 +22,8 @@
         "JJ",
         "sheetshuttle",
         "pluginbase",
-        "teleop"
+        "teleop",
+        "zackery"
     ],
     "ignorePaths": [
         ".github/**"
